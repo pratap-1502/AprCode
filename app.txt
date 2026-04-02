@@ -1,6 +1,7 @@
 "My First Git Project" 
 "second line added from local"
 "Login feature added" 
+"wednesday work - payment Test"
 "4th Line"
 " Monday work - Login Test" 
 "Tuesday work - signup test"
